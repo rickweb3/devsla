@@ -27,9 +27,7 @@
 
 ## 💻 Sobre o projeto
 
-Awax - projeto desenvolvido com o intuito de tornar real o layout [Awax](https://www.behance.net/gallery/58301549/Free-Landing-Page) desenvolvido pelo **Digital Product Designer Alex Bukin**...
-
-Uma forma de **colocar em prática** os meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE** e poder **compartilhar** aqui no GitHub para toda a **comunidade DEV!**
+Devsla - projeto desenvolvido com o intuito de **colocar em prática** os meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE** e poder **compartilhar** aqui no GitHub para toda a **comunidade DEV!**
 
 ---
 
