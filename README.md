@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rickweb3/projeto-awax?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rickweb3/projeto-devsla?color=%2304D361">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rickweb3/projeto-devsla">
   <a href="https://github.com/rickweb3/projeto-devsla/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rickweb3/projeto-devsla">
@@ -41,6 +41,7 @@ O site é **responsivo para Tablet e Mobile** e possue as seguintes característ
 - [x] Área de menu
 - [x] Área principal com imagem de fundo que cobre todo o site
 - [x] Botões de ação na área principal
+- [x] Footer clean, feito com animação do CSS
 
 ---
 
