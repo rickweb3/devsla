@@ -27,7 +27,7 @@
 
 ## 💻 Sobre o projeto
 
-Devsla - projeto desenvolvido com o intuito de **colocar em prática** os meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE** e poder **compartilhar** aqui no GitHub para toda a **comunidade DEV!**
+**Devsla** - projeto desenvolvido com o intuito de **colocar em prática** os meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE** e poder **compartilhar** aqui no GitHub para toda a **comunidade DEV!**
 
 ---
 
