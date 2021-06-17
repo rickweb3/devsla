@@ -17,9 +17,9 @@
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-funcionalidades">Funcionalidades</a> • 
+ <a href="#-features">Features</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> 
+ <a href="#-dev">Dev</a> 
 </p>
 
 
@@ -27,14 +27,14 @@
 
 ## 💻 Sobre o projeto
 
-**Devsla** - projeto desenvolvido com o intuito de **colocar em prática** os meus conhecimentos de **HTML5 + CSS3 + RESPONSIVIDADE** e poder **compartilhar** aqui no GitHub para toda a **comunidade DEV!**
+Projeto prático de estudo desenvolvido com o intuito de aplicar meus conhecimentos de **HTML5, CSS3 e Responsividade**
 
 ---
 
 
 
 
-## ⚙️ Funcionalidades
+## ⚙️ Features
 
 O site é **responsivo para Tablet e Mobile** e possue as seguintes características:
 
@@ -57,7 +57,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 
-## 🦸 Autor
+## 🦸 Dev
 
 <a href="https://github.com/rickweb3/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55119449" width="100px;" alt=""/>
