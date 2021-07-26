@@ -12,7 +12,7 @@
 
 
 <h4 align="center"> 
-	🚧 Awax - Concluído 🚀 🚧
+	🚧 Devsla - Concluído 🚀 🚧
 </h4>
 
 
