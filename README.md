@@ -26,6 +26,6 @@ Projeto prático de estudo desenvolvido com o intuito de aplicar meus conhecimen
 
 ## Projeto desenvolvido
 
-![Screenshot](overview_devsla.png)
+![Screenshot](img_readme/overview_devsla.png)
 
 ---
